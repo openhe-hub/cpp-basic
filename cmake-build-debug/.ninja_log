@@ -1,0 +1,24 @@
+# ninja log v5
+2	76	6796751999815790	cpp_basic.exe	5448b2f2d18b172c
+0	513	6834064733697253	CMakeFiles/test_quick_sort.dir/test/quick-sort.cpp.obj	76877f1d7e3a4214
+2265	2409	6842546165839865	template-class.exe	2ede33c96faa2ed2
+0	1321	6813720812027831	CMakeFiles/binary-file.dir/src/stl/string/string1.cpp.obj	3cc4d8cd8a2feeed
+2	1210	6813851551856753	CMakeFiles/vector1.dir/src/stl/vector/vector1.cpp.obj	76544347853910ad
+513	753	6834064736057219	test_quick_sort.exe	865787d03bdf37ab
+3	1324	6813720812027831	CMakeFiles/binary-file.dir/src/file-io/binary-file.cpp.obj	379ab83f3d55b412
+1315	1392	6813876120161827	map2.exe	29eac88e36ea457b
+2	1089	6813737672000699	CMakeFiles/string2.dir/src/stl/string/string2.cpp.obj	9fd113c2044516dd
+1089	1163	6813737672700842	string2.exe	85cc0e248d6014be
+3	889	6813819197582819	CMakeFiles/string3.dir/src/stl/string/string3.cpp.obj	59ce9c552789777b
+890	963	6813819198263264	string3.exe	762a9f86ec9fc4e6
+1210	1298	6813851552692027	vector1.exe	e6083f89f7936e91
+3	1102	6813868031916449	CMakeFiles/map1.dir/src/stl/map/map1.cpp.obj	96ab9562773bb945
+1102	1187	6813868032738488	map1.exe	b089b0238bd8a3d5
+0	1315	6813876119427637	CMakeFiles/map2.dir/src/stl/map/map2.cpp.obj	936a2bc0f76c2c68
+2	884	6836595341110687	CMakeFiles/quiz.dir/test/quiz.cpp.obj	8d6ee3ae568ba4a5
+885	954	6836595341768562	quiz.exe	b8650062bfc8c5ca
+1	2263	6842546164413306	CMakeFiles/template-class.dir/src/template/template-class.cpp.obj	2a0d02effa532325
+4	294	6842550369097584	CMakeFiles/exp-demo1.dir/src/exception/exp-demo1.cpp.obj	1711356e459c705f
+294	367	6842550369781307	exp-demo1.exe	b369e205d5f3af20
+0	350	6842560351705012	CMakeFiles/exp-demo2.dir/src/exception/exp-demo2.cpp.obj	ac2c960007c263b9
+350	437	6842560352544204	exp-demo2.exe	d7535fd7c6d6748a

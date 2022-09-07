@@ -1,0 +1,285 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpp_basic",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "binary-file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binary-file-Debug-030708ce48b7e34e5233.json",
+					"name" : "binary-file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "const-member::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-const-member-Debug-d7ce82ed8ea6895a8539.json",
+					"name" : "const-member",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "freopen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-freopen-Debug-0b3144b0c9ffdbd75a8b.json",
+					"name" : "freopen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "friend::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-friend-Debug-6dd1e462eddd5c3ba30a.json",
+					"name" : "friend",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello-Debug-a25e130dc0949fc7cf55.json",
+					"name" : "hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inheritance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inheritance-Debug-5812804a3d828854766e.json",
+					"name" : "inheritance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inheritance2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inheritance2-Debug-52bc8008c0bb1facfc0a.json",
+					"name" : "inheritance2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library-main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library-main-Debug-ee28eb86aead1f7c8b67.json",
+					"name" : "library-main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-86a3278903b0de8dfe2f.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map1-Debug-dbab9ef651965af2e441.json",
+					"name" : "map1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map2-Debug-7dd4113c05713688406a.json",
+					"name" : "map2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "operator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-operator-Debug-39a2eeca7a8ae93bf3d7.json",
+					"name" : "operator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "poly::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-poly-Debug-c57bd0a5e027ec37f5ad.json",
+					"name" : "poly",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "poly2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-poly2-Debug-a74c862f7cc5520d0855.json",
+					"name" : "poly2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quiz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quiz-Debug-0f92f56c3084ea5e32cd.json",
+					"name" : "quiz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quote::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quote-Debug-450dca130ec0fae00a9d.json",
+					"name" : "quote",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rand::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rand-Debug-715508d2cb26a9f049b3.json",
+					"name" : "rand",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "snake-main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-snake-main-Debug-f9764a780f38232b3fbe.json",
+					"name" : "snake-main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string1-Debug-6da9e4dae42291a4b014.json",
+					"name" : "string1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string2-Debug-f324088f2bb38fd459d8.json",
+					"name" : "string2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string3-Debug-b3a023f1a485b1c97ace.json",
+					"name" : "string3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "template-function::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-template-function-Debug-21ee6debde2c838b5d52.json",
+					"name" : "template-function",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_quick_sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_quick_sort-Debug-59264873d46a1750bded.json",
+					"name" : "test_quick_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "text-file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text-file-Debug-f32c4e9f370c15d1b4bb.json",
+					"name" : "text-file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "this-pointer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-this-pointer-Debug-de5cacee8ff2a1a84ad9.json",
+					"name" : "this-pointer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vector1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vector1-Debug-b45c7a982175e9337cb9.json",
+					"name" : "vector1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/program/cpp/cpp-basic/build",
+		"source" : "D:/program/cpp/cpp-basic"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

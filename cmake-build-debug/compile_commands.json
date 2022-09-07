@@ -1,0 +1,172 @@
+[
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\test_quick_sort.dir\\test\\quick-sort.cpp.obj -c D:\\program\\cpp\\cpp-basic\\test\\quick-sort.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\test\\quick-sort.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\hello.dir\\test\\hello.cpp.obj -c D:\\program\\cpp\\cpp-basic\\test\\hello.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\test\\hello.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\rand.dir\\test\\rand.cpp.obj -c D:\\program\\cpp\\cpp-basic\\test\\rand.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\test\\rand.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\main.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\main.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\this-pointer.dir\\src\\oop\\this-pointer.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\oop\\this-pointer.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\oop\\this-pointer.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\const-member.dir\\src\\oop\\const-member.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\oop\\const-member.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\oop\\const-member.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\inheritance.dir\\src\\oop\\inheritance.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\oop\\inheritance.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\oop\\inheritance.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\inheritance2.dir\\src\\oop\\inheritance2.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\oop\\inheritance2.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\oop\\inheritance2.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\friend.dir\\src\\oop\\friend.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\oop\\friend.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\oop\\friend.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\quote.dir\\src\\quote\\quote.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\quote\\quote.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\quote\\quote.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\operator.dir\\src\\operator\\operator.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\operator\\operator.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\operator\\operator.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\poly.dir\\src\\oop\\poly.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\oop\\poly.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\oop\\poly.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\poly2.dir\\src\\oop\\poly2.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\oop\\poly2.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\oop\\poly2.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\text-file.dir\\src\\file-io\\text-file.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\file-io\\text-file.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\file-io\\text-file.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\binary-file.dir\\src\\file-io\\binary-file.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\file-io\\binary-file.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\file-io\\binary-file.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\binary-file.dir\\src\\stl\\string\\string1.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\stl\\string\\string1.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\stl\\string\\string1.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\binary-file.dir\\src\\stl\\string\\string2.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\stl\\string\\string2.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\stl\\string\\string2.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\freopen.dir\\src\\file-io\\freopen.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\file-io\\freopen.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\file-io\\freopen.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\library-main.dir\\src\\library\\main.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\library\\main.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\library\\main.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\library-main.dir\\src\\library\\add.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\library\\add.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\library\\add.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\snake-main.dir\\src\\project\\snake\\main.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\project\\snake\\main.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\project\\snake\\main.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\snake-main.dir\\src\\project\\snake\\snake.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\project\\snake\\snake.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\project\\snake\\snake.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\snake-main.dir\\src\\project\\snake\\graph.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\project\\snake\\graph.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\project\\snake\\graph.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\string1.dir\\src\\stl\\string\\string1.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\stl\\string\\string1.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\stl\\string\\string1.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\string2.dir\\src\\stl\\string\\string2.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\stl\\string\\string2.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\stl\\string\\string2.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\string3.dir\\src\\stl\\string\\string3.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\stl\\string\\string3.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\stl\\string\\string3.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\vector1.dir\\src\\stl\\vector\\vector1.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\stl\\vector\\vector1.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\stl\\vector\\vector1.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\map1.dir\\src\\stl\\map\\map1.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\stl\\map\\map1.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\stl\\map\\map1.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\map2.dir\\src\\stl\\map\\map2.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\stl\\map\\map2.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\stl\\map\\map2.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\quiz.dir\\test\\quiz.cpp.obj -c D:\\program\\cpp\\cpp-basic\\test\\quiz.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\test\\quiz.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\template-function.dir\\src\\template\\template-function.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\template\\template-function.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\template\\template-function.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\template-class.dir\\src\\template\\template-class.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\template\\template-class.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\template\\template-class.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\exp-demo1.dir\\src\\exception\\exp-demo1.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\exception\\exp-demo1.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\exception\\exp-demo1.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-basic/cmake-build-debug",
+  "command": "D:\\software\\jetbrains-app\\apps\\CLion\\ch-0\\222.3739.54\\bin\\mingw\\bin\\g++.exe -ID:/program/cpp/cpp-basic/src/library -ID:/program/cpp/cpp-basic/src/project/snake -g -std=gnu++14 -o CMakeFiles\\exp-demo2.dir\\src\\exception\\exp-demo2.cpp.obj -c D:\\program\\cpp\\cpp-basic\\src\\exception\\exp-demo2.cpp",
+  "file": "D:\\program\\cpp\\cpp-basic\\src\\exception\\exp-demo2.cpp"
+}
+]
