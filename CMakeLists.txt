@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.22)
 project(cpp_basic)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 add_executable(test_quick_sort test/quick-sort.cpp)
@@ -42,3 +42,4 @@ add_executable(template-function src/template/template-function.cpp)
 add_executable(template-class src/template/template-class.cpp)
 add_executable(exp-demo1 src/exception/exp-demo1.cpp)
 add_executable(exp-demo2 src/exception/exp-demo2.cpp)
+add_executable(cpp11-demo src/new/cpp11-demo.cpp)
