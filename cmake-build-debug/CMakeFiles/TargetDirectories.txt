@@ -28,5 +28,12 @@ D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/template-class.dir
 D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/exp-demo1.dir
 D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/exp-demo2.dir
 D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/cpp11-demo.dir
+D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/gcd.dir
+D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/quick-sort.dir
+D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/test.dir
+D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/mat.dir
+D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/random.dir
+D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/smart_pointers.dir
+D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/shared_ptr_demo.dir
 D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/program/cpp/cpp-basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

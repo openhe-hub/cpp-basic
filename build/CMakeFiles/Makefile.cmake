@@ -74,4 +74,10 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/map2.dir/DependInfo.cmake"
   "CMakeFiles/quiz.dir/DependInfo.cmake"
   "CMakeFiles/template-function.dir/DependInfo.cmake"
+  "CMakeFiles/template-class.dir/DependInfo.cmake"
+  "CMakeFiles/exp-demo1.dir/DependInfo.cmake"
+  "CMakeFiles/exp-demo2.dir/DependInfo.cmake"
+  "CMakeFiles/cpp11-demo.dir/DependInfo.cmake"
+  "CMakeFiles/gcd.dir/DependInfo.cmake"
+  "CMakeFiles/quick-sort.dir/DependInfo.cmake"
   )

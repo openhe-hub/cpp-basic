@@ -24,5 +24,11 @@ D:/program/cpp/cpp-basic/build/CMakeFiles/map1.dir
 D:/program/cpp/cpp-basic/build/CMakeFiles/map2.dir
 D:/program/cpp/cpp-basic/build/CMakeFiles/quiz.dir
 D:/program/cpp/cpp-basic/build/CMakeFiles/template-function.dir
+D:/program/cpp/cpp-basic/build/CMakeFiles/template-class.dir
+D:/program/cpp/cpp-basic/build/CMakeFiles/exp-demo1.dir
+D:/program/cpp/cpp-basic/build/CMakeFiles/exp-demo2.dir
+D:/program/cpp/cpp-basic/build/CMakeFiles/cpp11-demo.dir
+D:/program/cpp/cpp-basic/build/CMakeFiles/gcd.dir
+D:/program/cpp/cpp-basic/build/CMakeFiles/quick-sort.dir
 D:/program/cpp/cpp-basic/build/CMakeFiles/edit_cache.dir
 D:/program/cpp/cpp-basic/build/CMakeFiles/rebuild_cache.dir

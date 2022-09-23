@@ -453,6 +453,132 @@ template-function/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\template-function.dir\build.make CMakeFiles/template-function.dir/build
 .PHONY : template-function/fast
 
+#=============================================================================
+# Target rules for targets named template-class
+
+# Build rule for target.
+template-class: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 template-class
+.PHONY : template-class
+
+# fast build rule for target.
+template-class/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\template-class.dir\build.make CMakeFiles/template-class.dir/build
+.PHONY : template-class/fast
+
+#=============================================================================
+# Target rules for targets named exp-demo1
+
+# Build rule for target.
+exp-demo1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 exp-demo1
+.PHONY : exp-demo1
+
+# fast build rule for target.
+exp-demo1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp-demo1.dir\build.make CMakeFiles/exp-demo1.dir/build
+.PHONY : exp-demo1/fast
+
+#=============================================================================
+# Target rules for targets named exp-demo2
+
+# Build rule for target.
+exp-demo2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 exp-demo2
+.PHONY : exp-demo2
+
+# fast build rule for target.
+exp-demo2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp-demo2.dir\build.make CMakeFiles/exp-demo2.dir/build
+.PHONY : exp-demo2/fast
+
+#=============================================================================
+# Target rules for targets named cpp11-demo
+
+# Build rule for target.
+cpp11-demo: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 cpp11-demo
+.PHONY : cpp11-demo
+
+# fast build rule for target.
+cpp11-demo/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp11-demo.dir\build.make CMakeFiles/cpp11-demo.dir/build
+.PHONY : cpp11-demo/fast
+
+#=============================================================================
+# Target rules for targets named gcd
+
+# Build rule for target.
+gcd: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 gcd
+.PHONY : gcd
+
+# fast build rule for target.
+gcd/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\gcd.dir\build.make CMakeFiles/gcd.dir/build
+.PHONY : gcd/fast
+
+#=============================================================================
+# Target rules for targets named quick-sort
+
+# Build rule for target.
+quick-sort: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 quick-sort
+.PHONY : quick-sort
+
+# fast build rule for target.
+quick-sort/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\quick-sort.dir\build.make CMakeFiles/quick-sort.dir/build
+.PHONY : quick-sort/fast
+
+src/exception/exp-demo1.obj: src/exception/exp-demo1.cpp.obj
+.PHONY : src/exception/exp-demo1.obj
+
+# target to build an object file
+src/exception/exp-demo1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp-demo1.dir\build.make CMakeFiles/exp-demo1.dir/src/exception/exp-demo1.cpp.obj
+.PHONY : src/exception/exp-demo1.cpp.obj
+
+src/exception/exp-demo1.i: src/exception/exp-demo1.cpp.i
+.PHONY : src/exception/exp-demo1.i
+
+# target to preprocess a source file
+src/exception/exp-demo1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp-demo1.dir\build.make CMakeFiles/exp-demo1.dir/src/exception/exp-demo1.cpp.i
+.PHONY : src/exception/exp-demo1.cpp.i
+
+src/exception/exp-demo1.s: src/exception/exp-demo1.cpp.s
+.PHONY : src/exception/exp-demo1.s
+
+# target to generate assembly for a file
+src/exception/exp-demo1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp-demo1.dir\build.make CMakeFiles/exp-demo1.dir/src/exception/exp-demo1.cpp.s
+.PHONY : src/exception/exp-demo1.cpp.s
+
+src/exception/exp-demo2.obj: src/exception/exp-demo2.cpp.obj
+.PHONY : src/exception/exp-demo2.obj
+
+# target to build an object file
+src/exception/exp-demo2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp-demo2.dir\build.make CMakeFiles/exp-demo2.dir/src/exception/exp-demo2.cpp.obj
+.PHONY : src/exception/exp-demo2.cpp.obj
+
+src/exception/exp-demo2.i: src/exception/exp-demo2.cpp.i
+.PHONY : src/exception/exp-demo2.i
+
+# target to preprocess a source file
+src/exception/exp-demo2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp-demo2.dir\build.make CMakeFiles/exp-demo2.dir/src/exception/exp-demo2.cpp.i
+.PHONY : src/exception/exp-demo2.cpp.i
+
+src/exception/exp-demo2.s: src/exception/exp-demo2.cpp.s
+.PHONY : src/exception/exp-demo2.s
+
+# target to generate assembly for a file
+src/exception/exp-demo2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp-demo2.dir\build.make CMakeFiles/exp-demo2.dir/src/exception/exp-demo2.cpp.s
+.PHONY : src/exception/exp-demo2.cpp.s
+
 src/file-io/binary-file.obj: src/file-io/binary-file.cpp.obj
 .PHONY : src/file-io/binary-file.obj
 
@@ -525,6 +651,54 @@ src/file-io/text-file.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\text-file.dir\build.make CMakeFiles/text-file.dir/src/file-io/text-file.cpp.s
 .PHONY : src/file-io/text-file.cpp.s
 
+src/lesson/rc9-18/gcd.obj: src/lesson/rc9-18/gcd.cpp.obj
+.PHONY : src/lesson/rc9-18/gcd.obj
+
+# target to build an object file
+src/lesson/rc9-18/gcd.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\gcd.dir\build.make CMakeFiles/gcd.dir/src/lesson/rc9-18/gcd.cpp.obj
+.PHONY : src/lesson/rc9-18/gcd.cpp.obj
+
+src/lesson/rc9-18/gcd.i: src/lesson/rc9-18/gcd.cpp.i
+.PHONY : src/lesson/rc9-18/gcd.i
+
+# target to preprocess a source file
+src/lesson/rc9-18/gcd.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\gcd.dir\build.make CMakeFiles/gcd.dir/src/lesson/rc9-18/gcd.cpp.i
+.PHONY : src/lesson/rc9-18/gcd.cpp.i
+
+src/lesson/rc9-18/gcd.s: src/lesson/rc9-18/gcd.cpp.s
+.PHONY : src/lesson/rc9-18/gcd.s
+
+# target to generate assembly for a file
+src/lesson/rc9-18/gcd.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\gcd.dir\build.make CMakeFiles/gcd.dir/src/lesson/rc9-18/gcd.cpp.s
+.PHONY : src/lesson/rc9-18/gcd.cpp.s
+
+src/lesson/rc9-18/quick-sort.obj: src/lesson/rc9-18/quick-sort.cpp.obj
+.PHONY : src/lesson/rc9-18/quick-sort.obj
+
+# target to build an object file
+src/lesson/rc9-18/quick-sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\quick-sort.dir\build.make CMakeFiles/quick-sort.dir/src/lesson/rc9-18/quick-sort.cpp.obj
+.PHONY : src/lesson/rc9-18/quick-sort.cpp.obj
+
+src/lesson/rc9-18/quick-sort.i: src/lesson/rc9-18/quick-sort.cpp.i
+.PHONY : src/lesson/rc9-18/quick-sort.i
+
+# target to preprocess a source file
+src/lesson/rc9-18/quick-sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\quick-sort.dir\build.make CMakeFiles/quick-sort.dir/src/lesson/rc9-18/quick-sort.cpp.i
+.PHONY : src/lesson/rc9-18/quick-sort.cpp.i
+
+src/lesson/rc9-18/quick-sort.s: src/lesson/rc9-18/quick-sort.cpp.s
+.PHONY : src/lesson/rc9-18/quick-sort.s
+
+# target to generate assembly for a file
+src/lesson/rc9-18/quick-sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\quick-sort.dir\build.make CMakeFiles/quick-sort.dir/src/lesson/rc9-18/quick-sort.cpp.s
+.PHONY : src/lesson/rc9-18/quick-sort.cpp.s
+
 src/library/add.obj: src/library/add.cpp.obj
 .PHONY : src/library/add.obj
 
@@ -596,6 +770,30 @@ src/main.s: src/main.cpp.s
 src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
+
+src/new/cpp11-demo.obj: src/new/cpp11-demo.cpp.obj
+.PHONY : src/new/cpp11-demo.obj
+
+# target to build an object file
+src/new/cpp11-demo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp11-demo.dir\build.make CMakeFiles/cpp11-demo.dir/src/new/cpp11-demo.cpp.obj
+.PHONY : src/new/cpp11-demo.cpp.obj
+
+src/new/cpp11-demo.i: src/new/cpp11-demo.cpp.i
+.PHONY : src/new/cpp11-demo.i
+
+# target to preprocess a source file
+src/new/cpp11-demo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp11-demo.dir\build.make CMakeFiles/cpp11-demo.dir/src/new/cpp11-demo.cpp.i
+.PHONY : src/new/cpp11-demo.cpp.i
+
+src/new/cpp11-demo.s: src/new/cpp11-demo.cpp.s
+.PHONY : src/new/cpp11-demo.s
+
+# target to generate assembly for a file
+src/new/cpp11-demo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp11-demo.dir\build.make CMakeFiles/cpp11-demo.dir/src/new/cpp11-demo.cpp.s
+.PHONY : src/new/cpp11-demo.cpp.s
 
 src/oop/const-member.obj: src/oop/const-member.cpp.obj
 .PHONY : src/oop/const-member.obj
@@ -1035,6 +1233,30 @@ src/stl/vector/vector1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\vector1.dir\build.make CMakeFiles/vector1.dir/src/stl/vector/vector1.cpp.s
 .PHONY : src/stl/vector/vector1.cpp.s
 
+src/template/template-class.obj: src/template/template-class.cpp.obj
+.PHONY : src/template/template-class.obj
+
+# target to build an object file
+src/template/template-class.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\template-class.dir\build.make CMakeFiles/template-class.dir/src/template/template-class.cpp.obj
+.PHONY : src/template/template-class.cpp.obj
+
+src/template/template-class.i: src/template/template-class.cpp.i
+.PHONY : src/template/template-class.i
+
+# target to preprocess a source file
+src/template/template-class.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\template-class.dir\build.make CMakeFiles/template-class.dir/src/template/template-class.cpp.i
+.PHONY : src/template/template-class.cpp.i
+
+src/template/template-class.s: src/template/template-class.cpp.s
+.PHONY : src/template/template-class.s
+
+# target to generate assembly for a file
+src/template/template-class.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\template-class.dir\build.make CMakeFiles/template-class.dir/src/template/template-class.cpp.s
+.PHONY : src/template/template-class.cpp.s
+
 src/template/template-function.obj: src/template/template-function.cpp.obj
 .PHONY : src/template/template-function.obj
 
@@ -1165,8 +1387,12 @@ help:
 	@echo ... rebuild_cache
 	@echo ... binary-file
 	@echo ... const-member
+	@echo ... cpp11-demo
+	@echo ... exp-demo1
+	@echo ... exp-demo2
 	@echo ... freopen
 	@echo ... friend
+	@echo ... gcd
 	@echo ... hello
 	@echo ... inheritance
 	@echo ... inheritance2
@@ -1177,6 +1403,7 @@ help:
 	@echo ... operator
 	@echo ... poly
 	@echo ... poly2
+	@echo ... quick-sort
 	@echo ... quiz
 	@echo ... quote
 	@echo ... rand
@@ -1184,11 +1411,18 @@ help:
 	@echo ... string1
 	@echo ... string2
 	@echo ... string3
+	@echo ... template-class
 	@echo ... template-function
 	@echo ... test_quick_sort
 	@echo ... text-file
 	@echo ... this-pointer
 	@echo ... vector1
+	@echo ... src/exception/exp-demo1.obj
+	@echo ... src/exception/exp-demo1.i
+	@echo ... src/exception/exp-demo1.s
+	@echo ... src/exception/exp-demo2.obj
+	@echo ... src/exception/exp-demo2.i
+	@echo ... src/exception/exp-demo2.s
 	@echo ... src/file-io/binary-file.obj
 	@echo ... src/file-io/binary-file.i
 	@echo ... src/file-io/binary-file.s
@@ -1198,6 +1432,12 @@ help:
 	@echo ... src/file-io/text-file.obj
 	@echo ... src/file-io/text-file.i
 	@echo ... src/file-io/text-file.s
+	@echo ... src/lesson/rc9-18/gcd.obj
+	@echo ... src/lesson/rc9-18/gcd.i
+	@echo ... src/lesson/rc9-18/gcd.s
+	@echo ... src/lesson/rc9-18/quick-sort.obj
+	@echo ... src/lesson/rc9-18/quick-sort.i
+	@echo ... src/lesson/rc9-18/quick-sort.s
 	@echo ... src/library/add.obj
 	@echo ... src/library/add.i
 	@echo ... src/library/add.s
@@ -1207,6 +1447,9 @@ help:
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/new/cpp11-demo.obj
+	@echo ... src/new/cpp11-demo.i
+	@echo ... src/new/cpp11-demo.s
 	@echo ... src/oop/const-member.obj
 	@echo ... src/oop/const-member.i
 	@echo ... src/oop/const-member.s
@@ -1261,6 +1504,9 @@ help:
 	@echo ... src/stl/vector/vector1.obj
 	@echo ... src/stl/vector/vector1.i
 	@echo ... src/stl/vector/vector1.s
+	@echo ... src/template/template-class.obj
+	@echo ... src/template/template-class.i
+	@echo ... src/template/template-class.s
 	@echo ... src/template/template-function.obj
 	@echo ... src/template/template-function.i
 	@echo ... src/template/template-function.s

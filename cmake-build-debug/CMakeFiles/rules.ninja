@@ -17,7 +17,7 @@
 rule CXX_COMPILER__test_quick_sort_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -25,7 +25,7 @@ rule CXX_COMPILER__test_quick_sort_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__test_quick_sort_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -36,7 +36,7 @@ rule CXX_EXECUTABLE_LINKER__test_quick_sort_Debug
 rule CXX_COMPILER__hello_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -44,7 +44,7 @@ rule CXX_COMPILER__hello_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__hello_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -55,7 +55,7 @@ rule CXX_EXECUTABLE_LINKER__hello_Debug
 rule CXX_COMPILER__rand_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -63,7 +63,7 @@ rule CXX_COMPILER__rand_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__rand_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -74,7 +74,7 @@ rule CXX_EXECUTABLE_LINKER__rand_Debug
 rule CXX_COMPILER__main_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -82,7 +82,7 @@ rule CXX_COMPILER__main_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__main_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -93,7 +93,7 @@ rule CXX_EXECUTABLE_LINKER__main_Debug
 rule CXX_COMPILER__this-pointer_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -101,7 +101,7 @@ rule CXX_COMPILER__this-pointer_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__this-pointer_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -112,7 +112,7 @@ rule CXX_EXECUTABLE_LINKER__this-pointer_Debug
 rule CXX_COMPILER__const-member_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -120,7 +120,7 @@ rule CXX_COMPILER__const-member_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__const-member_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -131,7 +131,7 @@ rule CXX_EXECUTABLE_LINKER__const-member_Debug
 rule CXX_COMPILER__inheritance_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -139,7 +139,7 @@ rule CXX_COMPILER__inheritance_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__inheritance_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -150,7 +150,7 @@ rule CXX_EXECUTABLE_LINKER__inheritance_Debug
 rule CXX_COMPILER__inheritance2_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -158,7 +158,7 @@ rule CXX_COMPILER__inheritance2_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__inheritance2_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -169,7 +169,7 @@ rule CXX_EXECUTABLE_LINKER__inheritance2_Debug
 rule CXX_COMPILER__friend_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -177,7 +177,7 @@ rule CXX_COMPILER__friend_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__friend_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -188,7 +188,7 @@ rule CXX_EXECUTABLE_LINKER__friend_Debug
 rule CXX_COMPILER__quote_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -196,7 +196,7 @@ rule CXX_COMPILER__quote_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__quote_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -207,7 +207,7 @@ rule CXX_EXECUTABLE_LINKER__quote_Debug
 rule CXX_COMPILER__operator_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -215,7 +215,7 @@ rule CXX_COMPILER__operator_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__operator_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -226,7 +226,7 @@ rule CXX_EXECUTABLE_LINKER__operator_Debug
 rule CXX_COMPILER__poly_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -234,7 +234,7 @@ rule CXX_COMPILER__poly_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__poly_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -245,7 +245,7 @@ rule CXX_EXECUTABLE_LINKER__poly_Debug
 rule CXX_COMPILER__poly2_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -253,7 +253,7 @@ rule CXX_COMPILER__poly2_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__poly2_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -264,7 +264,7 @@ rule CXX_EXECUTABLE_LINKER__poly2_Debug
 rule CXX_COMPILER__text-file_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -272,7 +272,7 @@ rule CXX_COMPILER__text-file_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__text-file_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -283,7 +283,7 @@ rule CXX_EXECUTABLE_LINKER__text-file_Debug
 rule CXX_COMPILER__binary-file_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -291,7 +291,7 @@ rule CXX_COMPILER__binary-file_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__binary-file_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -302,7 +302,7 @@ rule CXX_EXECUTABLE_LINKER__binary-file_Debug
 rule CXX_COMPILER__freopen_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -310,7 +310,7 @@ rule CXX_COMPILER__freopen_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__freopen_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -321,7 +321,7 @@ rule CXX_EXECUTABLE_LINKER__freopen_Debug
 rule CXX_COMPILER__library-main_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -329,7 +329,7 @@ rule CXX_COMPILER__library-main_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__library-main_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -340,7 +340,7 @@ rule CXX_EXECUTABLE_LINKER__library-main_Debug
 rule CXX_COMPILER__snake-main_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -348,7 +348,7 @@ rule CXX_COMPILER__snake-main_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__snake-main_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -359,7 +359,7 @@ rule CXX_EXECUTABLE_LINKER__snake-main_Debug
 rule CXX_COMPILER__string1_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -367,7 +367,7 @@ rule CXX_COMPILER__string1_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__string1_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -378,7 +378,7 @@ rule CXX_EXECUTABLE_LINKER__string1_Debug
 rule CXX_COMPILER__string2_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -386,7 +386,7 @@ rule CXX_COMPILER__string2_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__string2_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -397,7 +397,7 @@ rule CXX_EXECUTABLE_LINKER__string2_Debug
 rule CXX_COMPILER__string3_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -405,7 +405,7 @@ rule CXX_COMPILER__string3_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__string3_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -416,7 +416,7 @@ rule CXX_EXECUTABLE_LINKER__string3_Debug
 rule CXX_COMPILER__vector1_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -424,7 +424,7 @@ rule CXX_COMPILER__vector1_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__vector1_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -435,7 +435,7 @@ rule CXX_EXECUTABLE_LINKER__vector1_Debug
 rule CXX_COMPILER__map1_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -443,7 +443,7 @@ rule CXX_COMPILER__map1_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__map1_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -454,7 +454,7 @@ rule CXX_EXECUTABLE_LINKER__map1_Debug
 rule CXX_COMPILER__map2_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -462,7 +462,7 @@ rule CXX_COMPILER__map2_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__map2_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -473,7 +473,7 @@ rule CXX_EXECUTABLE_LINKER__map2_Debug
 rule CXX_COMPILER__quiz_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -481,7 +481,7 @@ rule CXX_COMPILER__quiz_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__quiz_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -492,7 +492,7 @@ rule CXX_EXECUTABLE_LINKER__quiz_Debug
 rule CXX_COMPILER__template-function_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -500,7 +500,7 @@ rule CXX_COMPILER__template-function_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__template-function_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -511,7 +511,7 @@ rule CXX_EXECUTABLE_LINKER__template-function_Debug
 rule CXX_COMPILER__template-class_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -519,7 +519,7 @@ rule CXX_COMPILER__template-class_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__template-class_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -530,7 +530,7 @@ rule CXX_EXECUTABLE_LINKER__template-class_Debug
 rule CXX_COMPILER__exp-demo1_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -538,7 +538,7 @@ rule CXX_COMPILER__exp-demo1_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__exp-demo1_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -549,7 +549,7 @@ rule CXX_EXECUTABLE_LINKER__exp-demo1_Debug
 rule CXX_COMPILER__exp-demo2_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -557,7 +557,7 @@ rule CXX_COMPILER__exp-demo2_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__exp-demo2_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -568,7 +568,7 @@ rule CXX_EXECUTABLE_LINKER__exp-demo2_Debug
 rule CXX_COMPILER__cpp11-demo_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -576,7 +576,140 @@ rule CXX_COMPILER__cpp11-demo_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__cpp11-demo_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__gcd_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__gcd_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__quick-sort_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__quick-sort_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__test_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__test_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__mat_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__mat_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__random_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__random_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__smart_pointers_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__smart_pointers_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__shared_ptr_demo_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__shared_ptr_demo_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -593,7 +726,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\program\cpp\cpp-basic -BD:\program\cpp\cpp-basic\cmake-build-debug
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\program\cpp\cpp-basic -BD:\program\cpp\cpp-basic\cmake-build-debug
   description = Re-running CMake...
   generator = 1
 
@@ -602,7 +735,7 @@ rule RERUN_CMAKE
 # Rule for cleaning all built files.
 
 rule CLEAN
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\ninja\win\ninja.exe $FILE_ARG -t clean $TARGETS
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\ninja\win\ninja.exe $FILE_ARG -t clean $TARGETS
   description = Cleaning all built files...
 
 
@@ -610,6 +743,6 @@ rule CLEAN
 # Rule for printing all primary targets available.
 
 rule HELP
-  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\ninja\win\ninja.exe -t targets
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\ninja\win\ninja.exe -t targets
   description = All primary targets available:
 

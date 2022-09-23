@@ -71,15 +71,5 @@ int main() {
     auto add=[](int a,int b){return a+b;};
     cout<<add(1,1)<<endl;
 
-
-
-
-
-
-
-
-
-
-
     return 0;
 }
